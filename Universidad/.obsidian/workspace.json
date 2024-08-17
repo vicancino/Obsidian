@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "d58c748e11cc35f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd8aa2e938002c5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "057a551c26471ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/Learning the Unix Operating System/Learning the Unix Operating System CH 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38f83520684d051e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp Notes/Learning the Unix Operating System CH 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1de2a2f0e8882720",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd17d4d85631f1e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6e72428cb7f473",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "544900db51b50ae2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f77c228e357cf21e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb39c630d9256a6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb9b656de42ee84b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a94c0ec400537816",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Temp Notes/Learning the Unix Operating System CH 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e873f4ce82fae83d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Temp Notes/Learning the Unix Operating System CH 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2b75d91534c1d29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6778b2442a34644",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Temp Notes/Learning the Unix Operating System CH 3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "38f83520684d051e",
+  "lastOpenFiles": [
+    "Pasted image 20240814094233.png",
+    "Temp Notes/Learning the Unix Operating System CH 3.md",
+    "Main Notes/Learning the Unix Operating System/Learning the Unix Operating System CH 2.md",
+    "Tags/On Going.md",
+    "Tags/Shell.md",
+    "Main Notes/Learning the Unix Operating System/Learning the Unix Operating System CH 1.md",
+    "Main Notes/Formulacion Y Evaluacion de Proyectos/Clase 1 FEP.md",
+    "Main Notes/Learning the Unix Operating System",
+    "Main Notes/Formulacion Y Evaluacion de Proyectos",
+    "Tags/Basics.md",
+    "Tags/Unix.md",
+    "Tags/Complete.md",
+    "Images/Pasted image 20240812134427.png",
+    "Images",
+    "Tags/Economía.md",
+    "Tags/FEP.md",
+    "Templates/Standard Template.md",
+    "Bienvenido.md",
+    "Templates",
+    "Source Material",
+    "Temp Notes",
+    "Indexes",
+    "Main Notes",
+    "Tags"
+  ]
+}
