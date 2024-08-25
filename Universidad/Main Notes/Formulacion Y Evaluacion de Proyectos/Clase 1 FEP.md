@@ -15,7 +15,7 @@ Tags: [[Economía]] [[FEP]]
 De esto recalcamos que tener el dinero en un determinado tiempo (situación) puede generar mayor valor. A este fenómeno le llamaremos costo de oportunidad. Definiremos entonces dicho concepto como: "el coste de oportunidad de un bien o servicio es la cantidad de otros bienes o servicios a los que se debe renunciar para obtenerlo, es decir el coste de la alternativa que se desecha cuando se toma una decision".
 
 #### Tasa de Descuento
-Denotaremos R como la tasa que representa el costo de oportunidad, como mencionamos anteriormente, esta se puede interpretar como la rentabilidad a la que se renuncia al invertir en el proyecto en lugar de invertir en alguna alternativa.
+Denotaremos R como la tasa que representa el costo de oportunidad, como mencionamos anteriormente, esta se puede interpretar como la rentabilidad a la que se renuncia al invertir en el proyecto en lugar de invertir en alguna alternativa. El dinero hoy vale mas que el dinero de manana, este es el costo de oportunidad R
 
 #### Interés Simple
 Es el interés que se calcula sobra un capital que permanece constante en el tiempo, el interés ganado o pagado se acumula solo al termino de esta transacción. De esta forma tenemos la ecuación:
