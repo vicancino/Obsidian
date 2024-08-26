@@ -7,7 +7,7 @@ Tags:
 # Clase 2 Sistemas Operativos
 
 Los procesos son abstracciones de los programas en ejecución. 
-La memoria se puede subdividir en almenos 4 espacios. El codigo, la data, el heap y el stack. 
+La memoria se puede subdividir en almenos 4 espacios. El código, la data, el heap y el stack. 
 En el código se guardan punteros que apuntan a donde se encuentran las instrucciones del código, ya que el area para el código es fija para todos los procesos.
 Cuando las llamadas a funciones que se almacenan en el stack superan el espacio de memoria asignado para el proceso, se produce el stack overflow. Las llamadas se van guardando en el stack para tener una linealidad en la ejecución así el sistema operativo sabe a que operación volver una vez una función termina su ejecución.
 

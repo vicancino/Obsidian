@@ -2,7 +2,7 @@
 
 Status: [[Complete]] 
 
-Tags: [[Basics]] [[Unix]] 
+Tags: [[Basics]] [[Unix]] [[OS]]
 
 # Learning the Unix Operating System CH 2
 

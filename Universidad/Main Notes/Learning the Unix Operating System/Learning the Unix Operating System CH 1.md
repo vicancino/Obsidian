@@ -2,7 +2,7 @@
 
 Status: [[Complete]]
 
-Tags:[[Unix]] [[Basics]] [[Shell]]
+Tags:[[Unix]] [[Basics]] [[Shell]] [[OS]]
 
 # Learning the Unix Operating System CH 1
 
