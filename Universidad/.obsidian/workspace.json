@@ -11,8 +11,24 @@
             "id": "0ca56f196b468e20",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Temp Notes/Xv6 Book CH2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ede74ea9025625b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp Notes/Xv6 Book CH3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH2.md",
+                "file": "Temp Notes/Xv6 Book CH3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH2.md",
+                "file": "Temp Notes/Xv6 Book CH3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH2.md"
+                "file": "Temp Notes/Xv6 Book CH3.md"
               }
             }
           }
@@ -147,17 +163,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8e6e72428cb7f473",
+  "active": "ede74ea9025625b9",
   "lastOpenFiles": [
+    "Temp Notes/Paper 2 FEP.md",
+    "Temp Notes/Xv6 Book CH3.md",
     "Temp Notes/Xv6 Book CH2.md",
+    "Pasted image 20240903094516.png",
+    "Temp Notes/Learning the Unix Operating System CH 3.md",
     "Main Notes/Learning the Unix Operating System/Learning the Unix Operating System CH 2.md",
     "Main Notes/Learning the Unix Operating System/Learning the Unix Operating System CH 1.md",
     "Main Notes/Xv6 Book/Xv6 Book CH1.md",
@@ -168,7 +188,6 @@
     "Source Material/Xv6 Book",
     "Source Material/Xv6 Book/Pasted image 20240825172155.png",
     "Source Material/Xv6 Book/Pasted image 20240825153539.png",
-    "Temp Notes/Learning the Unix Operating System CH 3.md",
     "Temp Notes/Clase 2 Sistemas Operativos.md",
     "Main Notes/Formulacion Y Evaluacion de Proyectos/Clase 1 FEP.md",
     "Source Material/Source Learning Unix/Pasted image 20240820160018.png",
