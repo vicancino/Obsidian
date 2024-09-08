@@ -171,10 +171,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
+<<<<<<< HEAD
   "active": "ede74ea9025625b9",
   "lastOpenFiles": [
     "Temp Notes/Paper 2 FEP.md",
     "Temp Notes/Xv6 Book CH3.md",
+=======
+  "active": "571a3b2c9d9adfed",
+  "lastOpenFiles": [
+    "Temp Notes/Learning the Unix Operating System CH 3.md",
+    "Temp Notes/Clase 2 Sistemas Operativos.md",
+>>>>>>> 0393338eef8b60c44bf5bfc7461c3f11f5bf8c45
     "Temp Notes/Xv6 Book CH2.md",
     "Pasted image 20240903094516.png",
     "Temp Notes/Learning the Unix Operating System CH 3.md",
@@ -188,7 +195,10 @@
     "Source Material/Xv6 Book",
     "Source Material/Xv6 Book/Pasted image 20240825172155.png",
     "Source Material/Xv6 Book/Pasted image 20240825153539.png",
+<<<<<<< HEAD
     "Temp Notes/Clase 2 Sistemas Operativos.md",
+=======
+>>>>>>> 0393338eef8b60c44bf5bfc7461c3f11f5bf8c45
     "Main Notes/Formulacion Y Evaluacion de Proyectos/Clase 1 FEP.md",
     "Source Material/Source Learning Unix/Pasted image 20240820160018.png",
     "Source Material/Source Learning Unix",
