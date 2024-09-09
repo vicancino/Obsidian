@@ -1,43 +1,29 @@
 {
   "main": {
-    "id": "d58c748e11cc35f4",
+    "id": "70b7b7c4250e72c7",
     "type": "split",
     "children": [
       {
-        "id": "7902e1a5a78f13dd",
+        "id": "080220401a7bccd8",
         "type": "tabs",
         "children": [
           {
-            "id": "0ca56f196b468e20",
+            "id": "0fb8d1f45a28e8f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH2.md",
-                "mode": "source",
-                "source": false
+                "file": "Source Material/Xv6 Book/Pasted image 20240903094516.png"
               }
             }
           },
           {
-            "id": "ede74ea9025625b9",
+            "id": "0eb10787a6d89df7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "571a3b2c9d9adfed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp Notes/Xv6 Book CH2.md",
+                "file": "Temp Notes/Xv6 Book CH4.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,15 +36,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1de2a2f0e8882720",
+    "id": "085418921d69e86d",
     "type": "split",
     "children": [
       {
-        "id": "bd17d4d85631f1e2",
+        "id": "284419e25a23f79b",
         "type": "tabs",
         "children": [
           {
-            "id": "8e6e72428cb7f473",
+            "id": "a9d0b4fbc342b0ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +54,7 @@
             }
           },
           {
-            "id": "544900db51b50ae2",
+            "id": "1d71ab699092167d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +69,7 @@
             }
           },
           {
-            "id": "f77c228e357cf21e",
+            "id": "7710bb1f8c2c20bd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +83,20 @@
     "width": 300
   },
   "right": {
-    "id": "cb39c630d9256a6c",
+    "id": "7219a8cfa781a6e5",
     "type": "split",
     "children": [
       {
-        "id": "fb9b656de42ee84b",
+        "id": "8b02480b822b2b6d",
         "type": "tabs",
         "children": [
           {
-            "id": "a94c0ec400537816",
+            "id": "fae908fbf68d1e2d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH3.md",
+                "file": "Temp Notes/Xv6 Book CH4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +108,19 @@
             }
           },
           {
-            "id": "e873f4ce82fae83d",
+            "id": "aa9630837076b789",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH3.md",
+                "file": "Temp Notes/Xv6 Book CH4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a2b75d91534c1d29",
+            "id": "bd62d1f3c93e6397",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +131,12 @@
             }
           },
           {
-            "id": "e6778b2442a34644",
+            "id": "59c2ecbad446f516",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH3.md"
+                "file": "Temp Notes/Xv6 Book CH4.md"
               }
             }
           }
@@ -163,60 +149,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "ede74ea9025625b9",
+  "active": "0eb10787a6d89df7",
   "lastOpenFiles": [
-    "Temp Notes/Paper 2 FEP.md",
-    "Temp Notes/Xv6 Book CH3.md",
-=======
-  "active": "571a3b2c9d9adfed",
-  "lastOpenFiles": [
-    "Temp Notes/Learning the Unix Operating System CH 3.md",
+    "Source Material/Xv6 Book/Pasted image 20240903094516.png",
+    "Temp Notes/Xv6 Book CH4.md",
     "Temp Notes/Clase 2 Sistemas Operativos.md",
->>>>>>> 0393338eef8b60c44bf5bfc7461c3f11f5bf8c45
-    "Temp Notes/Xv6 Book CH2.md",
-    "Pasted image 20240903094516.png",
     "Temp Notes/Learning the Unix Operating System CH 3.md",
-    "Main Notes/Learning the Unix Operating System/Learning the Unix Operating System CH 2.md",
-    "Main Notes/Learning the Unix Operating System/Learning the Unix Operating System CH 1.md",
-    "Main Notes/Xv6 Book/Xv6 Book CH1.md",
-    "Main Notes/Xv6 Book",
-    "Tags/OS.md",
-    "Tags/Untitled",
+    "Main Notes/Xv6 Book/Xv6 Book CH3.md",
+    "Main Notes/Xv6 Book/Xv6 Book CH2.md",
+    "Tags/Programming.md",
+    "Tags/Process.md",
+    "Tags/Hard.md",
+    "Tags/Advance.md",
     "Tags/On Going.md",
-    "Source Material/Xv6 Book",
-    "Source Material/Xv6 Book/Pasted image 20240825172155.png",
-    "Source Material/Xv6 Book/Pasted image 20240825153539.png",
-<<<<<<< HEAD
-    "Temp Notes/Clase 2 Sistemas Operativos.md",
-=======
->>>>>>> 0393338eef8b60c44bf5bfc7461c3f11f5bf8c45
-    "Main Notes/Formulacion Y Evaluacion de Proyectos/Clase 1 FEP.md",
-    "Source Material/Source Learning Unix/Pasted image 20240820160018.png",
-    "Source Material/Source Learning Unix",
-    "Source Material/Source Learning Unix/Pasted image 20240814094233.png",
-    "Tags/Shell.md",
-    "Main Notes/Learning the Unix Operating System",
-    "Main Notes/Formulacion Y Evaluacion de Proyectos",
-    "Tags/Basics.md",
-    "Tags/Unix.md",
-    "Tags/Complete.md",
-    "Images/Pasted image 20240812134427.png",
-    "Images",
-    "Tags/Economía.md",
-    "Tags/FEP.md",
-    "Templates/Standard Template.md",
-    "Bienvenido.md",
-    "Templates",
-    "Source Material",
-    "Temp Notes"
+    "Main Notes/Learning the Unix Operating System/Learning the Unix Operating System CH 2.md"
   ]
 }

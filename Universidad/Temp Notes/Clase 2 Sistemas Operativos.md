@@ -1,6 +1,6 @@
 #### Fecha: 2024-08-23 Hora: 09:00
 
-Status: [[On Going]]
+Status: [[Complete]]
 
 Tags:
 
