@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH4.md",
+                "file": "Temp Notes/Resumen FEP Prueba 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "960754194c1a5edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp Notes/Seguridad en TI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH4.md",
+                "file": "Temp Notes/Seguridad en TI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH4.md",
+                "file": "Temp Notes/Seguridad en TI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp Notes/Xv6 Book CH4.md"
+                "file": "Temp Notes/Seguridad en TI.md"
               }
             }
           }
@@ -157,12 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eb10787a6d89df7",
+  "active": "960754194c1a5edd",
   "lastOpenFiles": [
-    "Source Material/Xv6 Book/Pasted image 20240903094516.png",
+    "Temp Notes/Resumen FEP Prueba 1.md",
+    "Temp Notes/Seguridad en TI.md",
+    "Source Material/Seguridad En TI",
+    "Source Material/Seguridad En TI/Pasted image 20240919142748.png",
+    "Pasted image 20240919142714.png",
     "Temp Notes/Xv6 Book CH4.md",
-    "Temp Notes/Clase 2 Sistemas Operativos.md",
     "Temp Notes/Learning the Unix Operating System CH 3.md",
+    "Temp Notes/Clase 2 Sistemas Operativos.md",
+    "Source Material/Xv6 Book/Pasted image 20240903094516.png",
     "Main Notes/Xv6 Book/Xv6 Book CH3.md",
     "Main Notes/Xv6 Book/Xv6 Book CH2.md",
     "Tags/Programming.md",
